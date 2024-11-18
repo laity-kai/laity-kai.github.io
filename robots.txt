@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://laity-kai.github.io/al-folio/sitemap.xml
+Sitemap: https://laity-kai.github.io/sitemap.xml
