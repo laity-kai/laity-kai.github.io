@@ -2,198 +2,195 @@
   "basics": {
     "name": "KaiRui Wang",
     "label": "Beijing 101 High School Student",
-    "image": "",
-    "email": "kairui.wang1220@gmail.com",
+    "email": "kairui122006@gmail.com",
     "phone": "+86 17812771167",
     "url": "https://laity-kai.github.io/",
-    "summary": "A student whoinerested in financial analysis and Mathematicl Economics, Eagering explore the further combination between math and economics.",
+    "summary": "A high school student passionate about financial analysis, mathematical economics, and interdisciplinary research combining math and economics.",
     "location": {
-      "address": "3rd. Ring East Rd, Fengtai District, Beijing Shi, Beijing, China",
+      "address": "3rd. Ring East Rd, Fengtai District, Beijing Shi, Beijing",
       "postalCode": "100073",
       "city": "Beijing",
-      "countryCode": "China"
-    },
+      "countryCode": "CN"
+    }
   },
-  "Intern Experience": [
-    {
-      "name": "China Pilot Intelligent Connected Science And Technology Co.ltd",
-      "position": "Program Sector Intern",
-      "startDate": "2024-08-01",
-      "endDate": "2024-08-19",
-      "summary": "Learned programming and product development process, tested code for navigation and digital twin products, and contributed to the successful product launch. The outcomes of the Intern are launched New Product, finished the Product Design, programmed 10k+ Java/VUE codes",
-      "highlights": ["Latest Digital Twin Navigation Product"]
-    }
-    {
-      "name": "ZhongShan Music Hall Paid Work",
-      "position": "Program Sector Intern",
-      "startDate": "2023-11-5",
-      "endDate": "On-going Process",
-      "summary": "ordinating concert schedules, managing equipment setup, ensuring audience order, and performing compositions. Responsibilities included ticket checks, assisting with seating, and communicating venue rules. Worked as a performer for 50+ hours with paid salary. ",
-      "highlights": ["10+ concert performing experiences"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "institution": "Beijing No.101 High School International Department",
+      "location": "Beijing, China",
+      "startDate": "2022-09",
+      "endDate": "2025-06",
+      "area": "High School",
+      "studyType": "IB Curriculum",
+      "courses": [
+        "IB Mathematics AA HL",
+        "IB Physics HL",
+        "IB Computer Science HL",
+        "IB Psychology SL",
+        "IB English A SL",
+        "AP Macroeconomics 5",
+        "AP Calculus AB 5"
       ]
     }
   ],
-  "languages": [
+  "work": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "name": "BeiDou Navigation and Digital Twin Technologies, Inc.",
+      "position": "Program Intern",
+      "startDate": "2024-08-01",
+      "endDate": "2024-08-19",
+      "summary": "Learned programming and product development processes, tested navigation and digital twin products, contributing to successful product launches.",
+      "highlights": [
+        "Programmed 10k+ lines of Java/VUE code",
+        "Launched a new product"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "ZhongShan Music Hall Volunteer Work",
+      "position": "Volunteer",
+      "startDate": "2023-05",
+      "summary": "Coordinated concert schedules, managed equipment setup, ensured audience order, and assisted with ticket checks and seating arrangements.",
+      "highlights": [
+        "Regular twice-a-week volunteer work",
+        "Performed compositions for 50+ hours"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Economic Modeling during the Pandemic",
+      "startDate": "2022-12",
+      "summary": "Analyzed business operations during the pandemic using mathematical modeling, focusing on differential equations and statistics.",
+      "highlights": ["Proposed solutions implemented in Huawei Company."]
+    },
+    {
+      "name": "Intelligent Blackboard Innovation",
+      "startDate": "2023-04",
+      "summary": "Designed and developed an automatic handwriting recognition blackboard eraser, enhancing teaching efficiency and reducing health risks.",
+      "highlights": ["Saved 3-5 minutes of class time for teachers."]
+    },
+    {
+      "name": "Research on Improved RSA Cryptography",
+      "startDate": "2023-09",
+      "endDate": "2024-07",
+      "summary": "Proposed an improved RSA cryptography system, enhancing security and reducing decryption time, published in IJHSR.",
+      "highlights": ["Integrated knowledge from Stanford courses."]
+    },
+    {
+      "name": "Research of Power Line Communication and Improved OFDM Algorithm",
+      "startDate": "2024-06",
+      "endDate": "2024-07",
+      "summary": "Studied novel OFDM and power line communication techniques to increase PLC efficiency, publishing research on an improved OFDM synchronization algorithm.",
+      "highlights": ["Published paper on Google Scholar."]
+    },
+    {
+      "name": "Bashanzhong Accompanying Reading Program",
+      "startDate": "2023-04",
+      "summary": "Provided one-on-one English classic reading activities to students in remote areas, promoting literacy and access to cultural knowledge.",
+      "highlights": ["Reached 300 participants over two years."]
+    },
+    {
+      "name": "Dandelion Dispersion Modeling (HIMCM)",
+      "startDate": "2023-11",
+      "summary": "Studied dispersion patterns of dandelions using mathematical models and wrote a research paper.",
+      "highlights": ["Completed research paper on invasive factors."]
+    },
+    {
+      "name": "Carbon Dioxide Reduction Measures (IMMC)",
+      "startDate": "2024-04",
+      "summary": "Investigated and modeled the effectiveness of carbon dioxide reduction measures in factories, proposing innovative methods.",
+      "highlights": ["Completed research paper on CO2 reduction."]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Bashanzhong Accompanying Reading Program",
+      "position": "Leader & Editor",
+      "startDate": "2023-04",
+      "summary": "Organized a two-year online English reading tutoring program, reaching about 300 participants in rural areas.",
+      "highlights": ["Focused on English classics like 'To Kill a Mockingbird'."]
+    },
+    {
+      "organization": "ZhongShan Music Hall",
+      "position": "Volunteer & Performer",
+      "startDate": "2023-05",
+      "summary": "Managed concert logistics, ticketing, and audience coordination while performing musical compositions.",
+      "highlights": ["Performed compositions for 50+ hours.", "Assisted in 10+ concerts."]
+    }
+  ],
+  "awards": [
+    {
+      "title": "S.T. Yau High School Science Bronze Award",
+      "date": "2023",
+      "summary": "Awarded for exceptional performance in science research (Top 1%)."
+    },
+    {
+      "title": "HIMCM M Prize",
+      "date": "2023",
+      "summary": "Recognized for mathematical modeling research (Top 14%)."
+    },
+    {
+      "title": "NEC World Microeconomics Top 3",
+      "date": "2023",
+      "summary": "Ranked in the top three globally in Microeconomics."
+    },
+    {
+      "title": "International Math Modeling Competition (IMMC) Outstanding Prize",
+      "date": "2023",
+      "summary": "Awarded for innovative solutions in mathematical modeling (Top 1%)."
+    },
+    {
+      "title": "Conrad Competition National Shortlist",
+      "date": "2023",
+      "summary": "Recognized for innovative contributions to smart blackboard development."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Intermediate",
+      "keywords": ["Python", "Java", "HTML", "CSS", "MATLAB"]
+    },
+    {
+      "name": "Music",
+      "keywords": ["Piano Level 8", "Composition"]
+    },
+    {
+      "name": "Sports",
+      "keywords": ["Basketball", "Teamwork"]
+    },
+    {
+      "name": "Research",
+      "keywords": ["Mathematical Modeling", "Cryptography", "Quantum Computing"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Mathematics",
+      "keywords": ["Modeling", "Cryptography", "Economic Applications"]
+    },
+    {
+      "name": "Music",
+      "keywords": ["Piano", "Composition"]
+    },
+    {
+      "name": "Technology",
+      "keywords": ["Programming", "Digital Twin", "OFDM Algorithms"]
+    }
+  ],
+  "extracurricular": [
+    {
+      "name": "EMPIC STEM Club",
+      "position": "Founder",
+      "startDate": "2023-08",
+      "summary": "Founded and managed a STEM club focusing on economics, mathematics, physics, and computer science with interdisciplinary discussions.",
+      "highlights": ["100 members and 1000+ article page views."]
+    },
+    {
+      "name": "Applied Mathematics School Magazine",
+      "position": "Founder & Editor",
+      "startDate": "2023-08",
+      "summary": "Published magazines highlighting research in applied mathematics.",
+      "highlights": ["Published two issues in one year."]
     }
   ]
 }
