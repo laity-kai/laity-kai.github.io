@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: CV - Wang kaiRui.pdf
+description: This resume includes the basic information and the detailed description and supplemental activities, projects, researches, and awards beyond the CA application system
 toc:
   sidebar: left
 ---
