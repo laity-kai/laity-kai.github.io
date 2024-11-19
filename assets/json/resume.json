@@ -1,36 +1,35 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "KaiRui Wang",
+    "label": "Beijing 101 High School Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "kairui.wang1220@gmail.com",
+    "phone": "+86 17812771167",
+    "url": "https://laity-kai.github.io/",
+    "summary": "A student whoinerested in financial analysis and Mathematicl Economics, Eagering explore the further combination between math and economics.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "3rd. Ring East Rd, Fengtai District, Beijing Shi, Beijing, China",
+      "postalCode": "100073",
+      "city": "Beijing",
+      "countryCode": "China"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
-  "work": [
+  "Intern Experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "China Pilot Intelligent Connected Science And Technology Co.ltd",
+      "position": "Program Sector Intern",
+      "startDate": "2024-08-01",
+      "endDate": "2024-08-19",
+      "summary": "Learned programming and product development process, tested code for navigation and digital twin products, and contributed to the successful product launch. The outcomes of the Intern are launched New Product, finished the Product Design, programmed 10k+ Java/VUE codes",
+      "highlights": ["Latest Digital Twin Navigation Product"]
+    }
+    {
+      "name": "ZhongShan Music Hall Paid Work",
+      "position": "Program Sector Intern",
+      "startDate": "2023-11-5",
+      "endDate": "On-going Process",
+      "summary": "ordinating concert schedules, managing equipment setup, ensuring audience order, and performing compositions. Responsibilities included ticket checks, assisting with seating, and communicating venue rules. Worked as a performer for 50+ hours with paid salary. ",
+      "highlights": ["10+ concert performing experiences"]
     }
   ],
   "volunteer": [
