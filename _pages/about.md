@@ -3,7 +3,7 @@ layout: default
 title: About
 subtitle: Learn more about me and the purpose of this website
 profile:
-  image: "profile_image.jpg" # Replace with your actual image file name
+  image: "Kairui Wang pic.jpg" # Replace with your actual image file name
   image_circular: true
   align: left
   more_info: "Beijing 101 High School Student passionate about math and economics"
