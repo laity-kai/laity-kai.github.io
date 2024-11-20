@@ -13,7 +13,7 @@
       "countryCode": "CN"
     }
   },
-  "Education": [
+  "education": [
     {
       "institution": "Beijing No.101 High School International Department",
       "location": "Beijing, China",
@@ -34,7 +34,7 @@
       ]
     }
   ],
-  "Internship": [
+  "work": [
     {
       "name": "BeiDou Navigation and Digital Twin Technologies, Inc.",
       "position": "Program Intern",
@@ -57,7 +57,7 @@
       ]
     }
   ],
-  "Projects": [
+  "projects": [
     {
       "name": "Mathematical Economic Modeling about the Company's Profit during the Pandemic (Published)",
       "startDate": "2022-12",
@@ -113,7 +113,7 @@
       ]
     }
   ],
-  "Volunteer": [
+  "volunteer": [
     {
       "organization": "Bashanzhong Accompanying Reading Non-profit Organization",
       "position": "Leader & Editor",
@@ -135,7 +135,7 @@
       ]
     }
   ],
-  "Awards": [
+  "awards": [
     {
       "title": "S.T. Yau High School Science Bronze Award",
       "date": "2023",
@@ -167,7 +167,7 @@
       "summary": "Award for Top score in Mathematics Competition."
     }
   ],
-  "Skills": [
+  "skills": [
     {
       "name": "Programming",
       "level": "Intermediate",
