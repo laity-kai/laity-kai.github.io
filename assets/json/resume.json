@@ -73,7 +73,7 @@
       "startDate": "2023-04",
       "summary": "Designed and developed an automatic handwriting recognition blackboard eraser, enhancing teaching efficiency and reducing health risks. Led the team to analyze the blackboard market and predict future market growth trends.",
       "highlights": [
-        "Saved 3-5 minutes of class time for teachers.",
+        "Saved 3-5 minutes of class time for teachers",
         "Launched in 3 schools with 1k+ users"
       ]
     },
@@ -101,7 +101,7 @@
       "startDate": "2023-11",
       "summary": "Studied dispersion patterns of dandelions using mathematical models and wrote a research paper.",
       "highlights": [
-        "Completed research paper on invasive factors of dandelion and other invasive plants."
+        "Completed research paper on invasive factors of dandelion and other invasive plants"
       ]
     },
     {
@@ -109,7 +109,24 @@
       "startDate": "2024-04",
       "summary": "Investigated and modeled the effectiveness of carbon dioxide reduction measures in factories, proposing innovative methods.",
       "highlights": [
-        "Completed research paper on CO2 reduction."
+        "Completed research paper on CO2 reduction"
+      ]
+    },
+    {
+      "name": "EMPIC (Economic/Mathematics/Physics/Computer Science) STEM Club",
+      "startDate": "2023-08",
+      "summary": "Founded a 150-member interdisciplinary club, organized 25 seminars on Bitcoin, game theory, quantum physics, etc., and resulted in 5 research papers.",
+      "highlights": [
+        "150+ members, 25 seminars, 5 research papers, and 1000+ article page views"
+      ]
+    },
+    {
+      "name": "Applied Mathematics School Magazine",
+      "startDate": "2023-08",
+      "summary": "Published magazines highlighting research in applied mathematics.",
+      "highlights": [
+        "Published three issues in one year",
+        "300+ Students share 20+ articles"
       ]
     }
   ],
@@ -120,8 +137,8 @@
       "startDate": "2023-04",
       "summary": "Organized a two-year online English reading tutoring program, reaching about 300 participants in rural areas.",
       "highlights": [
-        "Reached 600 students over two years.",
-        "Arranged 40+ online reading sessions."
+        "Reached 600 students over two years",
+        "Arranged 40+ online reading sessions"
       ]
     },
     {
@@ -130,41 +147,41 @@
       "startDate": "2023-05",
       "summary": "Managed concert logistics, ticketing, and audience coordination while performing musical compositions.",
       "highlights": [
-        "Performed compositions for 50+ hours.",
-        "Assisted in 10+ concerts."
+        "Performed compositions for 50+ hours",
+        "Assisted in 10+ concerts"
       ]
     }
   ],
   "awards": [
     {
-      "title": "S.T. Yau High School Science Bronze Award",
+      "title": "S.T. Yau High School Science Bronze Award (Top 3 & Top 1%)",
       "date": "2023",
-      "summary": "Awarded for exceptional performance in science research (Top 1%)."
+      "summary": "Awarded for exceptional performance in science research (Top 1%)"
     },
     {
-      "title": "High School Mathematical Contest in Modeling (HIMCM) M Prize",
+      "title": "High School Mathematical Contest in Modeling (HIMCM) M Prize (Top 14%)",
       "date": "2023",
-      "summary": "Recognized for mathematical modeling research (Top 14%)."
+      "summary": "Recognized for mathematical modeling research"
     },
     {
       "title": "National Economic Competition World Microeconomics Top 3, Macroeconomics Top 10, and Overall World Top 5",
       "date": "2024",
-      "summary": "Ranked in the top three globally in Microeconomics."
+      "summary": "Ranked in the top three globally in Microeconomics"
     },
     {
-      "title": "International Math Modeling Competition (IMMC) Outstanding Prize",
+      "title": "International Math Modeling Competition (IMMC) Outstanding Prize (Top 1%)",
       "date": "2024",
-      "summary": "Awarded for innovative solutions in mathematical modeling (Top 1%)."
+      "summary": "Awarded for innovative solutions in mathematical modeling"
     },
     {
       "title": "Conrad Competition National Shortlist",
       "date": "2023",
-      "summary": "Recognized for innovative contributions to smart blackboard development."
+      "summary": "Recognized for innovative contributions to smart blackboard development"
     },
     {
       "title": "USAD Mathematics National Silver Award (Top 3%)",
       "date": "2023",
-      "summary": "Award for Top score in Mathematics Competition."
+      "summary": "Award for Top score in Mathematics Competition"
     }
   ],
   "skills": [
@@ -186,7 +203,7 @@
       "keywords": ["Mathematical Modeling", "Cryptography", "Quantum Computing"]
     }
   ],
-  "Interests": [
+  "interests": [
     {
       "name": "Mathematics",
       "keywords": ["Modeling", "Cryptography", "Economic Applications"]
@@ -200,25 +217,22 @@
       "keywords": ["Programming", "Digital Twin", "OFDM Algorithms"]
     }
   ],
-  "Extracurricular": [
+  "publications": [
     {
-      "name": "EMPIC (Economic/Mathematics/Physics/Computer Science) STEM Club",
-      "position": "Founder",
-      "startDate": "2023-08",
-      "summary": "Founded a 150-member interdisciplinary club, organized 25 seminars on Bitcoin, game theory, quantum physics, etc., and resulted in 5 research papers.",
-      "highlights": [
-        "150+ members, 25 seminars, 5 research papers, and 1000+ article page views."
-      ]
+      "name": "MNIST Handwritten Digit Classification with Quantum Neural Network (Published on Yau Magazine)",
+      "releaseDate": "2023-12",
+      "url": "http://www.yau-awards.com/uploads/file/20231101/20231101102648_51751.pdf",
+      "summary": "Using quantum image representation algorithms as encoders for quantum neural networks (QNN), explored the strengths and weaknesses of different ansatz and representations in terms of image classification."
     },
     {
-      "name": "Applied Mathematics School Magazine",
-      "position": "Founder & Editor",
-      "startDate": "2023-08",
-      "summary": "Published magazines highlighting research in applied mathematics.",
-      "highlights": [
-        "Published three issues in one year.",
-        "300+ Students share 20+ articles"
-      ]
+      "name": "Modeling benefits from the resumption of work and production in the firm during the COVID-19 (Published on Yuan Scholar Magazine)",
+      "releaseDate": "2023-03",
+      "summary": "Explored strategies for balancing employee health with profitability during the COVID-19 pandemic using mathematical modeling. Achieved a 10% profit increase by implementing innovative recovery plans."
+    },
+    {
+      "name": "The Modified RSA Cryptography (Submitted on IJHSR Magazine)",
+      "releaseDate": "2024-08",
+      "summary": "Introduced an enhanced RSA system to address vulnerabilities, incorporating three prime numbers for improved security and faster decryption using the Chinese Remainder Theorem."
     }
   ]
 }
