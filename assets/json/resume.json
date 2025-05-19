@@ -31,16 +31,16 @@
         "AP Microeconomics 5",
         "AP Calculus AB 5"
       ]
-    }
+    },
     {
       "institution": "University of Hong Kong",
       "location": "Hong Kong, China",
       "startDate": "2025-09",
-      "endDate": "2029-06",
+      "endDate": "2029-06 (Expected)",
       "area": "University",
-      "studyType": "Bs in Quantative Finance",
+      "studyType": "BSc in Quantitative Finance",
       "courses": [
-        "Quantative Finance",
+        "Quantitative Finance",
         "Economics",
         "Applied Mathematics",
         "Machine Learning"
@@ -62,7 +62,8 @@
     {
       "name": "ZhongShan Music Hall Paid Work",
       "position": "Performer",
-      "startDate": "2023-05",
+      "startDate": "2023-05-01",
+      "endDate": "Present",
       "summary": "Coordinated concert schedules, managed equipment setup, ensured audience order, and assisted with ticket checks and seating arrangements. Performed 10+ concerts in the Hall.",
       "highlights": [
         "Regular twice-a-week volunteer work",
@@ -74,6 +75,7 @@
     {
       "name": "Mathematical Economic Modeling about the Company's Profit during the Pandemic (Published)",
       "startDate": "2022-12",
+      "endDate": "2023-03",
       "summary": "Conducted research using PDE to analyze company recovery plans during COVID-19, resulting in a 10% profit increase while prioritizing employee health.",
       "highlights": [
         "Proposed solutions implemented in Huawei Company",
@@ -84,6 +86,7 @@
     {
       "name": "Intelligent Blackboard Innovation (Launched)",
       "startDate": "2023-04",
+      "endDate": "2023-08",
       "summary": "Designed and developed an automatic handwriting recognition blackboard eraser, enhancing teaching efficiency and reducing health risks. Led the team to analyze the blackboard market and predict future market growth trends.",
       "highlights": [
         "Saved 3-5 minutes of class time for teachers",
@@ -112,6 +115,7 @@
     {
       "name": "Dandelion Dispersion Modeling (HIMCM)",
       "startDate": "2023-11",
+      "endDate": "2023-12",
       "summary": "Studied dispersion patterns of dandelions using mathematical models and wrote a research paper.",
       "highlights": [
         "Completed research paper on invasive factors of dandelion and other invasive plants"
@@ -120,6 +124,7 @@
     {
       "name": "Carbon Dioxide Reduction Measures Modeling (IMMC)",
       "startDate": "2024-04",
+      "endDate": "2024-05",
       "summary": "Investigated and modeled the effectiveness of carbon dioxide reduction measures in factories, proposing innovative methods.",
       "highlights": [
         "Completed research paper on CO2 reduction"
@@ -128,6 +133,7 @@
     {
       "name": "EMPIC (Economic/Mathematics/Physics/Computer Science) STEM Club",
       "startDate": "2023-08",
+      "endDate": "Present",
       "summary": "Founded a 150-member interdisciplinary club, organized 25 seminars on Bitcoin, game theory, quantum physics, etc., and resulted in 5 research papers.",
       "highlights": [
         "150+ members, 25 seminars, 5 research papers, and 1000+ article page views"
@@ -136,6 +142,7 @@
     {
       "name": "Applied Mathematics School Magazine",
       "startDate": "2023-08",
+      "endDate": "Present",
       "summary": "Published magazines highlighting research in applied mathematics.",
       "highlights": [
         "Published three issues in one year",
@@ -148,6 +155,7 @@
       "organization": "Bashanzhong Accompanying Reading Non-profit Organization",
       "position": "Leader & Editor",
       "startDate": "2023-04",
+      "endDate": "Present",
       "summary": "Organized a two-year online English reading tutoring program, reaching about 300 participants in rural areas.",
       "highlights": [
         "Reached 600 students over two years",
@@ -158,6 +166,7 @@
       "organization": "ZhongShan Music Hall",
       "position": "Volunteer & Performer",
       "startDate": "2023-05",
+      "endDate": "Present",
       "summary": "Managed concert logistics, ticketing, and audience coordination while performing musical compositions.",
       "highlights": [
         "Performed compositions for 50+ hours",
