@@ -1,13 +1,12 @@
 {
   "basics": {
     "name": "KaiRui Wang",
-    "label": "Beijing 101 High School Student",
+    "label": "Beijing 101 High School, University of Hong Kong Student",
     "email": "kairui122006@gmail.com",
     "phone": "+86 17812771167",
     "url": "https://laity-kai.github.io/",
-    "summary": "A high school student passionate about financial analysis, mathematical economics, and interdisciplinary research combining math and economics.",
     "location": {
-      "address": "3rd. Ring East Rd, Fengtai District, Beijing Shi, Beijing",
+      "address": "Fengtai District, Beijing Shi, Beijing",
       "postalCode": "100073",
       "city": "Beijing",
       "countryCode": "CN"
@@ -31,6 +30,20 @@
         "AP Macroeconomics 5",
         "AP Microeconomics 5",
         "AP Calculus AB 5"
+      ]
+    }
+    {
+      "institution": "University of Hong Kong",
+      "location": "Hong Kong, China",
+      "startDate": "2025-09",
+      "endDate": "2029-06",
+      "area": "University",
+      "studyType": "Bs in Quantative Finance",
+      "courses": [
+        "Quantative Finance",
+        "Economics",
+        "Applied Mathematics",
+        "Machine Learning"
       ]
     }
   ],
